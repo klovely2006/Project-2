@@ -2,12 +2,15 @@
 
 Eliza Chatbot Project
 
-Group Member: Kacy Hines
+Group Member: 
+Kacy Hines
 
 How to Compile:
+
 g++ -std=c++17 -Wall -Wextra -o eliza *.cpp
 
 How to Run: 
+
 ./eliza
 
 The program will:
@@ -31,6 +34,7 @@ Utilities.h
 Utilities.cpp
 
 Project Description:
+
 Based on the original ELIZA natural language processing tool, this project replicates a basic AI chatbot.
 
 Using C++ regular expressions to recognize patterns in user input and produce suitable responses, the system mimics a conversation between a user and a doctor.
@@ -47,6 +51,7 @@ Major Functionality Includes:
 - Handling multiple response categories
 
 Notes:
+
 The program accepts normal sentences and short responses from the user.
 User input does not require a specific format.
 The chatbot will always provide a response, even if no pattern matches.
