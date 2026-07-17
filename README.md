@@ -23,24 +23,15 @@ The program will:
 7. End the conversation when the user types "bye"
 
 Source Files:
-
-main.cpp
-
-Chatbot.h
-
-Chatbot.cpp
-
-PatternMatcher.h
-
-PatternMatcher.cpp
-
-Memory.h
-
-Memory.cpp
-
-Utilities.h
-
-Utilities.cpp
+- main.cpp
+- Chatbot.h
+- Chatbot.cpp
+- PatternMatcher.h
+- PatternMatcher.cpp
+- Memory.h
+- Memory.cpp
+- Utilities.h
+- Utilities.cpp
 
 Project Description:
 
