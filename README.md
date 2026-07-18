@@ -52,8 +52,8 @@ Major Functionality Includes:
 
 Notes:
 
-The program accepts normal sentences and short responses from the user.
-User input does not require a specific format.
-The chatbot will always provide a response, even if no pattern matches.
-The user must type "bye" to end the program.
-All source files must remain in the same directory when compiling.
+- The program accepts normal sentences and short responses from the user.
+- User input does not require a specific format.
+- The chatbot will always provide a response, even if no pattern matches.
+- The user must type "bye" to end the program.
+- All source files must remain in the same directory when compiling.
